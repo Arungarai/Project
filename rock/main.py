@@ -21,6 +21,7 @@ while response=='Y':
     if response not in ('Y','N'):
         print("Enter the proper input")
 else:
+    print("Exit")
     quit()
 
 
