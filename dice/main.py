@@ -7,6 +7,7 @@ while (response=='Y'):
     shuffle1(number)
     response = input("Do you want to continue? Y/N")
 else:
+    print("Exit")
     quit()
 
 
